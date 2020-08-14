@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\Source\repos\Shadowrun Matrix Host Generator\bin\Debug\Shadowrun Matrix Host Generator.exe.config
+D:\Visual Studio Projects\Source\repos\Shadowrun Matrix Host Generator\bin\Debug\Shadowrun Matrix Host Generator.exe
+D:\Visual Studio Projects\Source\repos\Shadowrun Matrix Host Generator\bin\Debug\Shadowrun Matrix Host Generator.pdb
+D:\Visual Studio Projects\Source\repos\Shadowrun Matrix Host Generator\obj\Debug\Shadowrun Matrix Host Generator.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Source\repos\Shadowrun Matrix Host Generator\obj\Debug\Shadowrun_Matrix_Host_Generator.Form1.resources
+D:\Visual Studio Projects\Source\repos\Shadowrun Matrix Host Generator\obj\Debug\Shadowrun_Matrix_Host_Generator.Properties.Resources.resources
+D:\Visual Studio Projects\Source\repos\Shadowrun Matrix Host Generator\obj\Debug\Shadowrun Matrix Host Generator.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Source\repos\Shadowrun Matrix Host Generator\obj\Debug\Shadowrun Matrix Host Generator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Source\repos\Shadowrun Matrix Host Generator\obj\Debug\Shadowrun Matrix Host Generator.exe
+D:\Visual Studio Projects\Source\repos\Shadowrun Matrix Host Generator\obj\Debug\Shadowrun Matrix Host Generator.pdb
